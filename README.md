@@ -24,3 +24,7 @@ Para atualizar, substitua `index.html` pela versão revisada e envie um novo com
 ## Créditos
 
 Marcas e peças visuais fornecidas para uso nesta campanha. Este repositório não concede licença de reutilização das marcas.
+
+## Atualização de 29/09/2026
+
+O slide 3 destaca o benefício principal da Trok: “Você acaba de ganhar 10% de desconto”, para todos os clientes em todos os serviços, e oxi-sanitização grátis exclusivamente para mulheres. A contribuição de 10% do valor pago à Rede continua apresentada separadamente. O slide 5 identifica esses benefícios como compromissos próprios da Trok.
